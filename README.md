@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chrahhul/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/chrahhul/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/chrahhul/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Stack
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chrahhul/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/chrahhul/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/chrahhul/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
 | ------- |

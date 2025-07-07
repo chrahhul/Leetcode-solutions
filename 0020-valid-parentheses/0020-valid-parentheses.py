@@ -1,15 +1,18 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        st=[]
-        par={
+        stack=[]
+        ma={
             ")":"(",
-            "]":"[",
-            "}":"{"
+            "}":"{",
+            "]":"["
         }
         for i in s:
-            if i in par.values():
-                st.append(i)
-            elif i in par.keys():
-                if not st or par[i]!=st.pop():
+            if i in ma.values():
+                stack.append(i)
+            elif i in ma.keys():
+                if  not stack or ma[i]!=stack.pop():
                     return False
-        return not st
+        return not stack
+
+
+        

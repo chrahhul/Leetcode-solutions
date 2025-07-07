@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chrahhul/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/chrahhul/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chrahhul/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/chrahhul/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |

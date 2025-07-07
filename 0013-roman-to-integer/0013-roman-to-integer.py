@@ -1,7 +1,7 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
         res=0
-        Roman={
+        dic={
             "I":1,
             "V":5,
             "X":10,
@@ -11,11 +11,11 @@ class Solution:
             "M":1000
 
         }
-        for a,b in zip(s,s[1:]):
-            if Roman[a]<Roman[b]:
-                res-=Roman[a]
-            else:
-                res+=Roman[a]
-        return res+Roman[s[-1]]
-
         
+
+        for a,b in zip(s,s[1:]):
+            if dic[a] <dic[b]:
+                res-=dic[a]
+            else:
+                res+=dic[a]
+        return res+dic[s[-1]]

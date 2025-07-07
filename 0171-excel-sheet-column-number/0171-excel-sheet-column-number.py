@@ -1,7 +1,9 @@
 class Solution:
-    def titleToNumber(self, ct: str) -> int:
+    def titleToNumber(self, s: str) -> int:
         res=0
-        for i in ct:
-            res=res*26+(ord(i)-ord("A")+1)
-           
-        return res    
+        for i in s:
+            val=ord(i)-ord("A")+1
+            res=res*26+val
+        return res
+
+        

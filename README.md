@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/chrahhul/Leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
+| [1944-truncate-sentence](https://github.com/chrahhul/Leetcode-solutions/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/chrahhul/Leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chrahhul/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/chrahhul/Leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chrahhul/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/chrahhul/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1944-truncate-sentence](https://github.com/chrahhul/Leetcode-solutions/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chrahhul/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/chrahhul/Leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/chrahhul/Leetcode-solutions/tree/master/3194-find-words-containing-character) |

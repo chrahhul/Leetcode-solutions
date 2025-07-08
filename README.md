@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/chrahhul/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/chrahhul/Leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/chrahhul/Leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chrahhul/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -100,6 +101,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/chrahhul/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->

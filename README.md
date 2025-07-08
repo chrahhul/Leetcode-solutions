@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/chrahhul/Leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chrahhul/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/chrahhul/Leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/chrahhul/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/chrahhul/Leetcode-solutions/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chrahhul/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chrahhul/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/chrahhul/Leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/chrahhul/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |

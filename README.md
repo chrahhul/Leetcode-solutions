@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chrahhul/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/chrahhul/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/chrahhul/Leetcode-solutions/tree/master/3379-score-of-a-string) |
+| [3567-convert-date-to-binary](https://github.com/chrahhul/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chrahhul/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/chrahhul/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [3567-convert-date-to-binary](https://github.com/chrahhul/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 ## Trie
 |  |
 | ------- |

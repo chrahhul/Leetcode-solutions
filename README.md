@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/chrahhul/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/chrahhul/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/chrahhul/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/chrahhul/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chrahhul/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Simulation

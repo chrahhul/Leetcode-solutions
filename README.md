@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/chrahhul/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/chrahhul/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/chrahhul/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/chrahhul/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/chrahhul/Leetcode-solutions/tree/master/1944-truncate-sentence) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chrahhul/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/chrahhul/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/chrahhul/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3412-permutation-difference-between-two-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chrahhul/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/chrahhul/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0268-missing-number) |
 | [3567-convert-date-to-binary](https://github.com/chrahhul/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 ## Trie
 |  |
@@ -88,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/chrahhul/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chrahhul/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -100,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chrahhul/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |

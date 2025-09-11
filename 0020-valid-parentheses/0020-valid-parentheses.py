@@ -1,18 +1,10 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack=[]
-        ma={
-            ")":"(",
-            "}":"{",
-            "]":"["
-        }
+        dic={')':'(','}':'{',']':'['}
         for i in s:
-            if i in ma.values():
+            if i in dic.values():
                 stack.append(i)
-            elif i in ma.keys():
-                if  not stack or ma[i]!=stack.pop():
-                    return False
+            elif not stack or dic[i]!=stack.pop():
+                return False
         return not stack
-
-
-        

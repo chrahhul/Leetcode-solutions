@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chrahhul/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/chrahhul/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/chrahhul/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/chrahhul/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chrahhul/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/chrahhul/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/chrahhul/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/chrahhul/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/chrahhul/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chrahhul/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/chrahhul/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chrahhul/Leetcode-solutions/tree/master/0268-missing-number) |
 ## String Matching
 |  |

@@ -1,9 +1,9 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        maxs=curr=nums[0]
+        maxs=nums[0]
+        x=nums[0]
         for i in nums[1:]:
-            curr=max(i,curr+i)
-            maxs=max(curr,maxs)
+            x=max(i,x+i)
+            maxs=max(maxs,x)
         return maxs
-
         
